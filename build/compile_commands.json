@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/quantrop/projects/cpp/stuff/NoteMan/build",
+  "command": "/usr/bin/c++ -I/home/quantrop/projects/cpp/stuff/NoteMan/build -I/home/quantrop/projects/cpp/stuff/NoteMan -g -std=gnu++17 -o CMakeFiles/NoteMan.dir/src/noteman.cpp.o -c /home/quantrop/projects/cpp/stuff/NoteMan/src/noteman.cpp",
+  "file": "/home/quantrop/projects/cpp/stuff/NoteMan/src/noteman.cpp",
+  "output": "CMakeFiles/NoteMan.dir/src/noteman.cpp.o"
+}
+]
