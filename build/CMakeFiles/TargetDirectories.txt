@@ -1,3 +1,0 @@
-/home/quantrop/projects/cpp/stuff/NoteMan/build/CMakeFiles/NoteMan.dir
-/home/quantrop/projects/cpp/stuff/NoteMan/build/CMakeFiles/edit_cache.dir
-/home/quantrop/projects/cpp/stuff/NoteMan/build/CMakeFiles/rebuild_cache.dir
